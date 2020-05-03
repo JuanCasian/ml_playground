@@ -10,7 +10,6 @@ pylint = "*"
 matplotlib = "*"
 autopep8 = "*"
 jupyter = "*"
-pickle = "*"
 
 [requires]
 python_version = "3.7"
